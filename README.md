@@ -41,6 +41,10 @@ In order to increase the accuracy to 0.75 or higher, I made the following change
 -	4. I increased the number of hidden layers to 5
 -	5. I increased the number of neurons in each layer
 -	6. Given the nature of the data, I decided to use sigmoid activation function.
+See image below:
+
+![model](/imgs/opt_model.png?raw=true)
+
 After applying all the changes mentioned above, here are the evaluations of the model for the training set.
 1.	Change of accuracy with epoch
 
